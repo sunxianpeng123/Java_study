@@ -1,6 +1,6 @@
 package design_mode.strategy;
 
-public class StrategyPattern {
+public class StrategyMain {
     public static void main(String[] args) {
         Context context = new Context();
         Strategy strategyA = new ConcreteStrategyA();

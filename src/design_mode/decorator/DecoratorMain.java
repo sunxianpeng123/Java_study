@@ -1,6 +1,6 @@
 package design_mode.decorator;
 
-public class DecoratorPattern {
+public class DecoratorMain {
     public static void main(String[] args) {
         //抽象构件角色
         //具体构件角色
